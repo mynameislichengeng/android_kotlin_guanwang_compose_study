@@ -28,7 +28,6 @@ class MainActivity : ComponentActivity() {
             ComposeStudyDemoTheme {
                 MyApp(modifier = Modifier.fillMaxSize())
             }
-
         }
     }
 }
